@@ -1,0 +1,337 @@
+@media (max-width: 375px) {
+    header {
+        width: 327px;
+        height: 24px;
+        margin-top: 24px;
+    }
+
+    .logo-header {
+        width: 80px;
+        height: 24px;
+    }
+
+    .div1 {
+        width: 167px;
+        height: 14px;
+    }
+
+    .ul {
+        padding-top: 5px;
+    }
+
+    .features,
+    .team,
+    .sign_in {
+        width: 49px;
+        height: 14px;
+        font-size: 12px;
+        line-height: 14.09px;
+    }
+
+    .team {
+        width: 31px;
+    }
+
+    .sign_in {
+        width: 38px;
+    }
+
+    .illustration-1-mobile,
+    .illustration-2-mobile {
+        display: block;
+    }
+
+    .illustration-1-desktop,
+    .illustration-2-desktop {
+        display: none;
+    }
+
+    main {
+        display: block;
+        width: 320px;
+        height: 609px;
+        margin-top: 98px;
+    }
+
+    h1 {
+        width: 320px;
+        height: 108px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .h2-1 {
+        width: 296px;
+        height: 84px;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        letter-spacing: 0px;
+        padding: 24px 0px 32px 8px;
+    }
+
+    .div2 {
+        display: block;
+        width: 306px;
+        height: 96px;
+    }
+
+    .email-1 {
+        width: 298px;
+        height: 36px;
+        margin-left: 10px;
+    }
+
+    .email-1::placeholder {
+        width: 102px;
+        height: 14px;
+        font-size: 12px;
+        line-height: 14.09px;
+        letter-spacing: 0.37px;
+    }
+
+    .div3 {
+        width: 304px;
+        height: 40px;
+        margin-top: 16px;
+        margin-left: 8px;
+    }
+
+    .section1 {
+        width: 375px;
+        height: 53px;
+        margin: 0 auto;
+        margin-top: 90px;
+        background-image: url(../img/bg-curve-mobile.svg);
+    }
+
+    .section2 {
+        display: block;
+        width: 375px;
+        height: 869px;
+    }
+
+    .div4 {
+        width: 320px;
+        height: 459px;
+        padding-top: 87px;
+        padding-left: 20px;
+    }
+
+    .h2-2 {
+        width: 260px;
+        height: 24px;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #07043B;
+        margin: 0 auto;
+    }
+
+    .h3-2,
+    .h3-3 {
+        width: 320px;
+        height: 63px;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        color: #615F7E;
+    }
+
+    .h3-2 {
+        padding-top: 24px;
+        padding-bottom: 16px;
+    }
+
+    .div5 {
+        width: 138px;
+        height: 23px;
+        margin: 0 auto;
+        padding-top: 36px;
+    }
+
+    .h3-4 {
+        width: 110px;
+        height: 16px;
+        font-size: 12px;
+        line-height: 16.34px;
+    }
+
+    .icon-arrow {
+        padding-top: 0px;
+        margin-top: -1px;
+    }
+
+    .div6 {
+        width: 280px;
+        height: 169.1px;
+        margin-top: 40px;
+        border-radius: 3.93px;
+    }
+
+    .icon-quotes {
+        height: 10px;
+        padding-top: 22px;
+        padding-left: 28px;
+    }
+
+    .p1 {
+        width: 241.3px;
+        height: 73px;
+        font-size: 10px;
+        line-height: 17px;
+        letter-spacing: 0.38px;
+        padding: 5px 0px 11px 25.96px;
+    }
+
+    .div7 {
+        width: 105px;
+        height: 27px;
+        padding-left: 25.96px;
+        padding-bottom: 18.62px;
+    }
+
+    .avatar-testimonial {
+        width: 24px;
+        height: 24px;
+    }
+
+    .div8 {
+        padding-left: 7.46px;
+    }
+
+    .h3-5 {
+        width: 58px;
+        font-size: 9px;
+        line-height: 12.26px;
+        letter-spacing: 0.45px;
+        color: #07043B;
+    }
+
+    .h3-6 {
+        width: 73px;
+        height: 12px;
+        font-size: 6px;
+        line-height: 11.8px;
+        letter-spacing: 0.3px;
+        color: #07043B;
+    }
+
+    .section3 {
+        width: 375px;
+        height: 345px;
+        display: block;
+    }
+
+    .div9 {
+        width: 280px;
+        height: 124px;
+        padding-top: 54px;
+        padding-left: 48px;
+    }
+
+    .h2-3 {
+        width: 195px;
+        height: 24px;
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0 auto;
+    }
+
+    .p2 {
+        width: 280px;
+        height: 84px;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: 0px;
+        text-align: center;
+        padding-top: 16px;
+    }
+
+    .div10 {
+        width: 240px;
+        height: 72px;
+        padding-top: 24px;
+        padding-left: 66px;
+    }
+
+    .email-2 {
+        width: 234px;
+        height: 32px;
+        border-radius: 1.47px;
+        box-shadow: 1px 1px 3px rgba(7, 4, 59, 0.157043);
+        border: 1px solid #575988;
+    }
+
+    .email-2::placeholder {
+        width: 129.41px;
+        height: 12px;
+        font-size: 10px;
+        line-height: 11.74px;
+        padding-top: 11px;
+        padding-left: 8px;
+    }
+
+    .div11 {
+        width: 240px;
+        height: 32px;
+        border-radius: 1.47px;
+        box-shadow: 1px 1px 3px rgba(7, 4, 59, 0.157043);
+        margin-top: 8px;
+    }
+
+    .h3-7 {
+        width: 98.41px;
+        height: 12px;
+        font-size: 10px;
+        line-height: 11.74px;
+        padding: 11px 71px;
+    }
+
+    footer {
+        width: 375px;
+        height: 590px;
+        display: block;
+    }
+
+    .div12 {
+        width: 222px;
+        height: 126px;
+        padding-top: 65px;
+        padding-left: 39px;
+    }
+
+    .logo-footer {
+        width: 105px;
+        height: 30px;
+    }
+
+    .div13 {
+        height: 24px;
+        padding-top: 32px;
+    }
+
+    .div14 {
+        height: 24px;
+    }
+
+    .div15 {
+        padding-top: 32px;
+        padding-left: 39px;
+    }
+
+    .div16 {
+        padding-top: 32px;
+        padding-left: 39px;
+    }
+
+    .div17 {
+        width: 104px;
+        height: 27px;
+        margin-top: 32px;
+        margin-left: 136px;
+    }
+}
